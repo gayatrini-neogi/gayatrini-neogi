@@ -1,16 +1,13 @@
-## Hi there 👋
+## HI there 👋!!  I'm Gayatrini Neogi 
+💻 Front-end Developer |🐍 Python Developer |🎩 Ethical Hacker |🤖 Artificial Intelligence: 
 
-<!--
-**gayatrini-neogi/gayatrini-neogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring computer science Engineer with a fervent interest in technology, particularly in ethical hacking, artificial intelligence(AI), 
+and web development. Seeking opportunities to implement theoretical knowledge in real-life scenarios, I am ready to dive into new 
+challenges with dedication and enthusiasm.
 
-Here are some ideas to get you started:
+- 🌍 I'm based in Pune
+- 🔭 I’m currently studying in MIT- World Peace University
+- 🌱 I’m currently learning Cloud Computing
+- 📫 How to reach me: gayatrini.neogi02@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
